@@ -133,7 +133,7 @@ Projeto de app de promoções de bares e restaurantes. Realizei integração com
 </ul>
 <br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/restaurante.jpg" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/restaurante2.jpg" width="100%">
 
 <h1>2016</h1>
 <h2>[BOT] ArteiroBOT</h2>
