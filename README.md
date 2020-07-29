@@ -35,4 +35,20 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 <hr/>
 
 
+<hr/>
+
+<h2>[Web] Gerenciamento Financeiro</h2>
+Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de um escritório de arquitetura.
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>PHP7 - Laravel</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>jQuery</li>
+</ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Arquiteto.gif" width="100%">
+<hr/>
+
 
