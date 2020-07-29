@@ -49,7 +49,6 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 <li>SCSS</li> 
 <li>OSM (Open street maps)</li>
 <li>Leaflet</li>
-
 </ul>
 <br>
 <h5>Resultado</h5>
@@ -67,7 +66,7 @@ Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de 
 <li>HTML5</li>
 <li>CSS3</li>
 <li>jQuery</li>
-<li>AWS - EC2 / S3 / RDS
+<li>AWS - EC2 / S3 / RDS</li>
 </ul>
 <br>
 <h5>Resultado</h5>
