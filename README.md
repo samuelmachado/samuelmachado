@@ -60,10 +60,10 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 <hr/>
 <h1>2018</h1>
 <h2>[BOT] BOT NLP de vendas</h2>
-<i>⚠️Atenção: Este projeto foi desenvolvido para fins acadêmicos e todos os seus fontes não foram e nem serão comercializados</i>
+<i>⚠️Atenção: Este projeto foi desenvolvido para fins acadêmicos e todos os seus fontes não foram e nem serão comercializados.</i>
 <p>
-Em 2018 eu tive a seguinte ideia: <i>"E se eu arrumar um jeito de treinar uma IA com base em mensagens que eu enviei para números de whatsapp aleatórios?"</i>
-Então, como um bom dev eu conseguir desenvolver uma engenharia para gerar e validar números de telefone com Whatsapp. A partir disso eu integrei a minha API com um bot de Whatsapp não oficial.<br>
+Em 2018 eu tive a seguinte ideia <i>"E se eu programar um jeito de treinar uma IA com base em mensagens que eu enviei para números de whatsapp aleatórios?"</i><br>
+Então, eu conseguir desenvolver uma engenharia para gerar e validar números de telefone com Whatsapp ativo. A partir disso eu integrei a minha API com um bot de Whatsapp não oficial.<br>
 Feito isso, passei a treinar a primeira versão do bot, ele gerava uma mensagem aleatória sobre consórcio e enviava para números aleatórios. Com base nas respostas eu comecei a classificar as seguintes intenções:
 <table>
     <tr>  
@@ -88,15 +88,15 @@ Feito isso, passei a treinar a primeira versão do bot, ele gerava uma mensagem 
     </tr>
         <tr>  
         <td>compraFutura</td>
-        <td>O usuário não quer para agora. Ex. Hoje não amigo!, estou desempregado, acabei de comprar um</td>
+        <td>O usuário não quer agora. Ex. Hoje não amigo!, estou desempregado, acabei de comprar um</td>
     </tr>
 </table><br>
-A partir disso eu fui refinando o modelo, primeiro desenvolvi usando python e fiz um segundo teste em node. o sistema classificava um potencial comprador com base em Whatsapps enviados.<br>
-Eu encerrei o projeto pois enviar SPAM é chato, mas pude refinar bem o modelo. O produto escolhido foi consórcio, pois tenho conhecimento nesse setor, pelas minhas contas, 50% dos usuários responderam
-e até 20% se mostraram interessados de alguma forma em saber mais. Muito promissor mas SPAM é chato, encerrei o projeto e valeu como um grande aprendizado.<br>
+Com o tempo, refinei o modelo, primeiro desenvolvi usando Python, depois fiz um segundo teste usando node. O sistema classificava um potencial comprador com base em Whatsapps enviados.<br>
+Eu encerrei o projeto pois enviar SPAM é errado. O produto escolhido foi consórcio, pois tenho conhecimento nesse setor, pelas minhas contas, 50% dos usuários responderam
+e até 20% se mostraram interessados de alguma forma em saber mais. Muito promissor mas SPAM é <b>errado</b>, encerrei o projeto e valeu como um grande aprendizado.<br>
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/NLP.gif" width="100%">
 
-<i>OBS. Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apliquei o sistema para você possa ver no print abaixo.</i>
+<i>Obs. Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apliquei o sistema.</i>
 </p>
 <h5>Tecnologias envolvidas</h5>
 <ul>
