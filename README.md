@@ -57,9 +57,8 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/rotasApp.gif" width="100%">
 <hr/>
 
-
 <hr/>
-<h1>2017</h1>
+<h1>2018</h1>
 <h2>[Web] Gerenciamento Financeiro</h2>
 Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de um escritório de arquitetura.
 <h5>Tecnologias envolvidas</h5>
@@ -71,8 +70,39 @@ Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de 
 <li>AWS - EC2 / S3 / RDS</li>
 </ul>
 <br>
+
+<hr/>
+<h1>2017</h1>
+<h2>[Web|API] Gestão de controle de obras</h2>
+A proposta era ser uma "rede social" da obra, o engenheiro lançava informações diárias como uma especíe de "diário da obra" e todos na equipe podiam acompanhar a evolução. 
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>PHP7 - Laravel / Nodejs</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Vuejs</li>
+<li>AWS - EC2 / S3 / RDS</li>
+</ul>
+<br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Arquiteto.gif" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/x.gif" width="100%">
+
+<h2>[BOT|API] ValidatorBOT</h2>
+A proposta aqui foi utilizar um recurso nativo do Telegram que envia o PRÓPRIO contato do usuário autenticado para o bot. Dessa forma podemos fazer um 2FA em um sistema web  
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>Nodejs</li>
+<li>Express</li>
+<li>2FA</li>
+<li>AWS - EC2</li>
+<li>Atlas - Mongodb</li>
+
+</ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/validator.gif" width="100%">
+
+
 <hr/>
 
 
