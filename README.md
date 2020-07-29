@@ -5,7 +5,7 @@ alt="Samuel Machado" />
 <h1>2019</h1>
 <h2>[Web] Projeto de Rotas</h2>
 Desenvolvi o painel web e a API que é consumida pelo aplicativo. Nesse projeto temos um controle de alunos e solicitações de transporte, o maior desafio do projeto foi organizar escalas de motoristas, alunos e escolas.<br>
-<h5>Tecnologias envolvidas</h5><br>
+<h5>Tecnologias envolvidas</h5>
 <ul>
 <li>Bootstrap 3</li>
 <li>HTML5</li>
@@ -21,7 +21,7 @@ Desenvolvi o painel web e a API que é consumida pelo aplicativo. Nesse projeto 
 
 <h2>[App] App de Rotas</h2>
 Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o maior desafio deste app foi aplicar tecnologias de roteirização open source (leaflet routing) para funcionar no modo offline. Os utilizadores do app tem problemas de conexão com a internet móvel, então preparar o aplicativo para enviar as requests somente quando havia conexão, também foi um desafio.
-<h5>Tecnologias envolvidas</h5><br>
+<h5>Tecnologias envolvidas</h5>
 <ul>
 <li>Ionic 3</li>
 <li>Typescript</li>
