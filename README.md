@@ -71,7 +71,7 @@ Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de 
 </ul>
 <br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Arquitetura.gif" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Arquiteto.gif" width="100%">
 
 <hr/>
 <h2>[Web] Criptografia de vídeo - HLS</h2>
