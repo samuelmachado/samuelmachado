@@ -60,9 +60,9 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 <hr/>
 <h1>2018</h1>
 <h2>[BOT] BOT NLP de vendas</h2>
-<i>⚠️Atenção: Este projeto foi desenvolvido para fins acadêmicos e todos os seus fontes não foram e nem serão comercializados.</i>
+<i>⚠️Atenção: Este projeto foi desenvolvido para fins acadêmicos e <B>todos os seus fontes</B> não foram e nem serão comercializados.</i>
 <p>
-Em 2018 eu tive a seguinte ideia <i>"E se eu programar um jeito de treinar uma IA com base em mensagens que eu enviei para números de whatsapp aleatórios?".</i><br>
+Em 2018 eu tive a seguinte ideia <i>"E se eu programar um jeito de treinar uma IA com base em mensagens que eu enviei para números de Whatsapp aleatórios?".</i><br>
 Eu consegui desenvolver uma engenharia para gerar e validar números de telefone com Whatsapp ativo. A partir disso eu integrei a minha API com um bot de Whatsapp não oficial.<br>
 Feito isso, passei a treinar a primeira versão do bot em Python, ele gerava uma mensagem aleatória sobre consórcio e enviava para números aleatórios. Com base nas respostas eu comecei a classificar as seguintes intenções:
 <table>
@@ -76,11 +76,11 @@ Feito isso, passei a treinar a primeira versão do bot em Python, ele gerava uma
     </tr>
     <tr>  
         <td>cumprimento</td>
-        <td>o usuário respondeu com um cumprimento. Ex. Oi, Olá, Eae cara!</td>
+        <td>O usuário respondeu com um cumprimento. Ex. Oi, Olá, Eae cara!</td>
     </tr>
     <tr>  
         <td>quemVoce</td>
-        <td>Bom.. se você está mandando SPAM o mínimo que você espera é um "QUEM É VOCÊ? certo?</td>
+        <td>Bom.. se você está mandando SPAM o mínimo que você espera é um "QUEM É VOCÊ?"</td>
     </tr>
     <tr>  
         <td>negacao</td>
@@ -91,7 +91,7 @@ Feito isso, passei a treinar a primeira versão do bot em Python, ele gerava uma
         <td>O usuário não quer agora. Ex. Hoje não amigo!, estou desempregado, acabei de comprar um</td>
     </tr>
 </table><br>
-Com o tempo, refinei o modelo, fiz um segundo teste usando node. O sistema classificava um potencial comprador com base em Whatsapps enviados. No resultado final 50% dos usuários responderam e até 20% se mostraram interessados. Muito promissor, mas <b>enviar SPAM é errado</b>.<br>Encerrei o projeto e valeu como um grande aprendizado.<br>
+Com o tempo, refinei o modelo, fiz um segundo teste usando node. O sistema classificava um potencial comprador com base em Whatsapp's enviados. No resultado final 50% dos usuários responderam e até 20% se mostraram interessados. Muito promissor, mas <b>enviar SPAM é errado</b>.<br>Encerrei o projeto e valeu como um grande aprendizado.<br>
 <h5>Resultado</h5>
 Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apliquei o sistema<br>
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/NLP.gif" width="100%">
