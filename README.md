@@ -70,6 +70,9 @@ Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de 
 <li>AWS - EC2 / S3 / RDS</li>
 </ul>
 <br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Arquitetura.gif" width="100%">
+
 <hr/>
 <h2>[Web] Criptografia de vídeo - HLS</h2>
 Desenvolvi uma forma de criptografar e descriptografar vídeos em tempo de execução. Fiz uma integração com o ffmpeg para converter/splitar o vídeo em partes, a partir disso criptografei os segmentos usando o conceito de chave pública/privada.
