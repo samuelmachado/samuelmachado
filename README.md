@@ -4,7 +4,7 @@ alt="Samuel Machado" />
 <hr/>
 
 <h1>2020</h1>
-<h2>[App|Web|API] App de negócios</h2>
+<h2>[App|Web|API] App de leads</h2>
 Liderei e atuei no desenvolvimento de um projeto que une prestadores de serviços e clientes. Os prestadores desbloqueiam leads que são postados na plataforma. O desafio do projeto foi criar uma "moeda virtual" que é utilizada dentro do aplicativo.
 <h5>Tecnologias envolvidas</h5>
 <ul>
@@ -19,7 +19,7 @@ Liderei e atuei no desenvolvimento de um projeto que une prestadores de serviço
 </ul>
 <br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/.gif" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/negocios.gif" width="100%">
 <hr/>
 
 <h1>2019</h1>
