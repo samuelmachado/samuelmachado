@@ -2,8 +2,7 @@
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Capa.png" width="100%"
 alt="Samuel Machado" />
 <br>
-
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/projetoRotas.gif"width="80%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/projetoRotas.gif" width="80%">
 <h5>[Web] Projeto de Rotas</h5>
 Desenvolvi o painel web e a API que é consumida pelo aplicativo. Nesse projeto temos um controle de alunos e solicitações de transporte, o maior desafio do projeto foi organizar escalas de motoristas, alunos e escolas.
 Tecnologias envolvidas:
