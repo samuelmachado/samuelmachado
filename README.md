@@ -182,5 +182,5 @@ Sistema de gerenciamento de orçamentos, pedidos, clientes, financeiro e estoque
 </ul>
 <br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/sms.gif" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/crmerp.jpg" width="100%">
 <hr/>
