@@ -84,7 +84,7 @@ Usando um player open source consegui "ler" o vídeo em formato HLS e descriptog
 </ul>
 <br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/x.gif" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/player.jpg" width="100%">
 <i>Explicação: O vídeo na tela usa o player open source e no canto superior direito estou demonstrando que é possível baixar um vídeo do vimeo e o meu não.</i>
 
 <hr/>
