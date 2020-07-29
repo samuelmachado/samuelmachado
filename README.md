@@ -216,7 +216,7 @@ Este foi meu trabalho de graduação, coloquei sensores em um arduino e fiz uma 
 
 <h1>2015</h1>
 <h2>[API] Gateway de SMS</h2>
-Desenvolvi um gateway de SMS utilizando modens 3g desbloqueados e Python. O usuário realizava um pedido de envio para API e através de sockets o client conectado ao modem pegava informações da fila de envio de tempo em tempo e enviava o SMS com comandos AT.
+Desenvolvi um gateway de SMS utilizando modems 3g desbloqueados e Python. O usuário realizava um pedido de envio para API e através de sockets o client conectado ao modem pegava informações da fila de envio de tempo em tempo e enviava o SMS com comandos AT.
 <h5>Tecnologias envolvidas</h5>
 <ul>
 <li>Socket</li>
