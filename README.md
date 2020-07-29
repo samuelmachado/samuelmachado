@@ -2,10 +2,9 @@
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Capa.png" width="100%"
 alt="Samuel Machado" />
 <br>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/projetoRotas.gif" width="100%">
-<h5>[Web] Projeto de Rotas</h5>
+<h1>[Web] Projeto de Rotas</h1>
 Desenvolvi o painel web e a API que é consumida pelo aplicativo. Nesse projeto temos um controle de alunos e solicitações de transporte, o maior desafio do projeto foi organizar escalas de motoristas, alunos e escolas.<br>
-Tecnologias envolvidas:<br>
+<h5>Tecnologias envolvidas</h5><br>
 <ul>
 <li>Bootstrap 3</li>
 <li>HTML5</li>
@@ -14,6 +13,9 @@ Tecnologias envolvidas:<br>
 <li>Vue.js (Em novas features)</li>
 <li>PHP7 – Yii2 (API)</li>
 </ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/projetoRotas.gif" width="100%">
 
 
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/rotasApp.gif" width="100%">
