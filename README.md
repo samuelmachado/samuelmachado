@@ -120,10 +120,20 @@ A proposta aqui foi utilizar um recurso nativo do Telegram que envia o PRÓPRIO 
 <br>
 <h5>Resultado</h5>
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/validator.gif" width="100%">
-
-
 <hr/>
-
+<h2>[App] App de promoções</h2>
+Projeto de app de promoções de bares e restaurantes. Realizei integração com  geosearch e near by do mongodb
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>Nodejs</li>
+<li>ReactJS</li>
+<li>React Native</li>
+<li>Mongodb</li>
+<li>GCP</li>
+</ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/restaurante.jpg" width="100%">
 
 <h1>2016</h1>
 <h2>[BOT] ArteiroBOT</h2>
