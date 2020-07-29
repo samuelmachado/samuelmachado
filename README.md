@@ -102,7 +102,7 @@ Este foi meu trabalho de graduação, coloquei sensores em um arduino e fiz uma 
 </ul>
 <br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/iotbot.gif" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/iotbot2.gif" width="100%">
 <hr/>
 
 <h1>2015</h1>
