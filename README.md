@@ -101,7 +101,7 @@ A proposta era ser uma "rede social" da obra, o engenheiro lançava informaçõe
 </ul>
 <br>
 <h5>Resultado</h5>
-<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/x.gif" width="100%">
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/obras.jpg" width="100%">
 
 <h2>[BOT|API] ValidatorBOT</h2>
 A proposta aqui foi utilizar um recurso nativo do Telegram que envia o PRÓPRIO contato do usuário autenticado para o bot. Dessa forma podemos fazer um 2FA em um sistema web  
