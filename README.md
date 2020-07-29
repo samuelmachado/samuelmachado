@@ -62,9 +62,9 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 <h2>[BOT] BOT NLP de vendas</h2>
 <i>⚠️Atenção: Este projeto foi desenvolvido para fins acadêmicos e todos os seus fontes não foram e nem serão comercializados.</i>
 <p>
-Em 2018 eu tive a seguinte ideia <i>"E se eu programar um jeito de treinar uma IA com base em mensagens que eu enviei para números de whatsapp aleatórios?"</i><br>
-Então, eu conseguir desenvolver uma engenharia para gerar e validar números de telefone com Whatsapp ativo. A partir disso eu integrei a minha API com um bot de Whatsapp não oficial.<br>
-Feito isso, passei a treinar a primeira versão do bot, ele gerava uma mensagem aleatória sobre consórcio e enviava para números aleatórios. Com base nas respostas eu comecei a classificar as seguintes intenções:
+Em 2018 eu tive a seguinte ideia <i>"E se eu programar um jeito de treinar uma IA com base em mensagens que eu enviei para números de whatsapp aleatórios?".</i><br>
+Eu consegui desenvolver uma engenharia para gerar e validar números de telefone com Whatsapp ativo. A partir disso eu integrei a minha API com um bot de Whatsapp não oficial.<br>
+Feito isso, passei a treinar a primeira versão do bot em Python, ele gerava uma mensagem aleatória sobre consórcio e enviava para números aleatórios. Com base nas respostas eu comecei a classificar as seguintes intenções:
 <table>
     <tr>  
         <th>Intenção</th>
@@ -80,7 +80,7 @@ Feito isso, passei a treinar a primeira versão do bot, ele gerava uma mensagem 
     </tr>
     <tr>  
         <td>quemVoce</td>
-        <td>Bom.. se você está mandando SPAM o mínimo que você espera é um "QUEM É VOCÊ????", certo?</td>
+        <td>Bom.. se você está mandando SPAM o mínimo que você espera é um "QUEM É VOCÊ? certo?</td>
     </tr>
     <tr>  
         <td>negacao</td>
@@ -91,9 +91,8 @@ Feito isso, passei a treinar a primeira versão do bot, ele gerava uma mensagem 
         <td>O usuário não quer agora. Ex. Hoje não amigo!, estou desempregado, acabei de comprar um</td>
     </tr>
 </table><br>
-Com o tempo, refinei o modelo, primeiro desenvolvi usando Python, depois fiz um segundo teste usando node. O sistema classificava um potencial comprador com base em Whatsapps enviados.<br>
-Eu encerrei o projeto pois enviar SPAM é errado. O produto escolhido foi consórcio, pois tenho conhecimento nesse setor, pelas minhas contas, 50% dos usuários responderam
-e até 20% se mostraram interessados de alguma forma em saber mais. Muito promissor mas SPAM é <b>errado</b>, encerrei o projeto e valeu como um grande aprendizado.<br>
+Com o tempo, refinei o modelo, fiz uma segunda teste usando node. O sistema classificava um potencial comprador com base em Whatsapps enviados.<br>
+Eu encerrei o projeto pois enviar SPAM é errado. No resultado final 50% dos usuários responderam e até 20% se mostraram interessados. Muito promissor, mas, novamente, SPAM é <b>errado</b>.<br>Encerrei o projeto e valeu como um grande aprendizado.<br>
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/NLP.gif" width="100%">
 
 <i>Obs. Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apliquei o sistema.</i>
