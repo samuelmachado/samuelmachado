@@ -16,6 +16,7 @@ Liderei e atuei no desenvolvimento de um projeto que une prestadores de serviço
 <li>Leaflet</li>
 <li>Teste unitário</li>
 <li>GCP</li>
+<li>Push notification</li>
 </ul>
 <br>
 <h5>Resultado</h5>
@@ -49,6 +50,7 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 <li>SCSS</li> 
 <li>OSM (Open street maps)</li>
 <li>Leaflet</li>
+<li>Push notification</li>
 </ul>
 <br>
 <h5>Resultado</h5>
@@ -89,6 +91,47 @@ O objetivo desse projeto é pesquisar obras de arte através de um bot do Telegr
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/ArteiroBOT.gif" width="100%">
 <hr/>
 
+<h2>[BOT|API] IoT BOT</h2>
+Este foi meu trabalho de graduação, coloquei sensores em um arduino e fiz uma comunicação http para que os dados fossem enviados para uma API. A partir disso a API enviava as informações úteis para o usuário através de um bot no Telegram
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>Nodejs (V2)</li>
+<li>mongoDB</li>
+<li>Heroku</li>
+<li>Arduino</li>
+</ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/iotbot.gif" width="100%">
+<hr/>
 
+<h1>2015</h1>
+<h2>[API] Gateway de SMS</h2>
+Desenvolvi um gateway de SMS utilizando modens 3g desbloqueados e Python. O usuário realizava um pedido de envio para API e através de sockets o client conectado ao modem pegava informações da fila de envio de tempo em tempo e enviava o SMS com comandos AT.
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>Socket</li>
+<li>Python Flask / Comunicação serial</li>
+<li>Processamento de fila</li>
+</ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/sms.gif" width="100%">
+<hr/>
 
-
+<h1>2014/2015</h1>
+<h2>[Web|API] CRM & ERP</h2>
+Sistema de gerenciamento de orçamentos, pedidos, clientes, financeiro e estoque. Apliquei diversos conceitos como rastreio de email, geração de relatórios complexos, sistema de contas a pagar e a receber etc.
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>PHP5 e PHP7
+<li>CodeIgniter 2 e 3</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>jQuery</li>
+<li>Envio de emails</li>
+</ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/sms.gif" width="100%">
+<hr/>
