@@ -99,10 +99,9 @@ Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apli
 </p>
 <h5>Tecnologias envolvidas</h5>
 <ul>
-<li>PHP7 - Laravel</li>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>jQuery</li>
+<li>Python Flask</li>
+<li>RASA/DialogFlow/NodeNLP/brain.js</li>
+<li>Node - Express</li>
 <li>AWS - EC2 / S3 / RDS</li>
 </ul>
 <br>
