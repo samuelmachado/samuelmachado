@@ -92,9 +92,9 @@ Feito isso, passei a treinar a primeira versão do bot em Python, ele gerava uma
     </tr>
 </table><br>
 Com o tempo, refinei o modelo, fiz um segundo teste usando node. O sistema classificava um potencial comprador com base em Whatsapps enviados. No resultado final 50% dos usuários responderam e até 20% se mostraram interessados. Muito promissor, mas <b>enviar SPAM é errado</b>.<br>Encerrei o projeto e valeu como um grande aprendizado.<br>
+Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apliquei o sistema<br>
 <img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/NLP.gif" width="100%">
 
-<i>Obs. Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apliquei o sistema.</i>
 </p>
 <h5>Tecnologias envolvidas</h5>
 <ul>
