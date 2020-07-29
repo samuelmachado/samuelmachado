@@ -59,6 +59,58 @@ Continuei o desenvolvimento do aplicativo que consome o projeto citado acima, o 
 
 <hr/>
 <h1>2018</h1>
+<h2>[BOT] BOT NLP de vendas</h2>
+<i>⚠️Atenção: Este projeto foi desenvolvido para fins acadêmicos e todos os seus fontes não foram e nem serão comercializados</i>
+<p>
+Em 2018 eu tive a seguinte ideia: <i>"E se eu arrumar um jeito de treinar uma IA com base em mensagens que eu enviei para números de whatsapp aleatórios?"</i>
+Então, como um bom dev eu conseguir desenvolver uma engenharia para gerar e validar números de telefone com Whatsapp. A partir disso eu integrei a minha API com um bot de Whatsapp não oficial.<br>
+Feito isso, passei a treinar a primeira versão do bot, ele gerava uma mensagem aleatória sobre consórcio e enviava para números aleatórios. Com base nas respostas eu comecei a classificar as seguintes intenções:
+<table>
+    <tr>  
+        <th>Intenção</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>  
+        <td>comprar</td>
+        <td>Alguém que foi identificado como um potencial comprador. Ex. quero saber mais, quero comprar, o que é isso?</td>
+    </tr>
+    <tr>  
+        <td>cumprimento</td>
+        <td>o usuário respondeu com um cumprimento. Ex. Oi, Olá, Eae cara!</td>
+    </tr>
+    <tr>  
+        <td>quemVoce</td>
+        <td>Bom.. se você está mandando SPAM o mínimo que você espera é um "QUEM É VOCÊ????", certo?</td>
+    </tr>
+    <tr>  
+        <td>negacao</td>
+        <td>Essa foi a intenção mais legal, você ficaria admirado com as formas que um brasileiro tem de negar algo. Ex. n quero naum, não quero, nn</td>
+    </tr>
+        <tr>  
+        <td>compraFutura</td>
+        <td>O usuário não quer para agora. Ex. Hoje não amigo!, estou desempregado, acabei de comprar um</td>
+    </tr>
+</table><br>
+A partir disso eu fui refinando o modelo, primeiro desenvolvi usando python e fiz um segundo teste em node. o sistema classificava um potencial comprador com base em Whatsapps enviados.<br>
+Eu encerrei o projeto pois enviar SPAM é chato, mas pude refinar bem o modelo. O produto escolhido foi consórcio, pois tenho conhecimento nesse setor, pelas minhas contas, 50% dos usuários responderam
+e até 20% se mostraram interessados de alguma forma em saber mais. Muito promissor mas SPAM é chato, encerrei o projeto e valeu como um grande aprendizado.<br>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/NLP.gif" width="100%">
+
+<i>OBS. Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apliquei o sistema para você possa ver no print abaixo.</i>
+</p>
+<h5>Tecnologias envolvidas</h5>
+<ul>
+<li>PHP7 - Laravel</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>jQuery</li>
+<li>AWS - EC2 / S3 / RDS</li>
+</ul>
+<br>
+<h5>Resultado</h5>
+<img src="https://github.com/samuelmachado/samuelmachado/blob/master/.github/assets/Arquiteto.gif" width="100%">
+<hr/>
+
 <h2>[Web] Gerenciamento Financeiro</h2>
 Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de um escritório de arquitetura.
 <h5>Tecnologias envolvidas</h5>
