@@ -100,7 +100,7 @@ Como acho errado mostrar prints do Whatsapp, fiz um fork de uma interface e apli
 <h5>Tecnologias envolvidas</h5>
 <ul>
 <li>Python Flask</li>
-<li>RASA/DialogFlow/NodeNLP/brain.js</li>
+<li>RASA/DialogFlow/NodeNLP</li>
 <li>Node - Express</li>
 <li>AWS - EC2 / S3 / RDS</li>
 </ul>
