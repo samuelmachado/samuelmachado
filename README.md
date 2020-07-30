@@ -117,7 +117,9 @@ Desenvolvi um projeto Web que cria orçamentos e gerencia a parte financeira de 
 <li>HTML5</li>
 <li>CSS3</li>
 <li>jQuery</li>
-<li>AWS - EC2 / S3 / RDS</li>
+<li>AWS - EC2 </li>
+<li>Atlas - MongoDB</li>
+
 </ul>
 <br>
 <h5>Resultado</h5>
@@ -178,7 +180,7 @@ Projeto de app de promoções de bares e restaurantes. Realizei integração com
 <li>Nodejs</li>
 <li>ReactJS</li>
 <li>React Native</li>
-<li>Mongodb</li>
+<li>MongoDB</li>
 <li>GCP</li>
 </ul>
 <br>
@@ -191,7 +193,7 @@ O objetivo desse projeto é pesquisar obras de arte através de um bot do Telegr
 <h5>Tecnologias envolvidas</h5>
 <ul>
 <li>Nodejs (V2)</li>
-<li>mongoDB</li>
+<li>MongoDB</li>
 <li>Heroku</li>
 <li>Spark Java (V1)</li>
 </ul>
@@ -205,7 +207,7 @@ Este foi meu trabalho de graduação, coloquei sensores em um arduino e fiz uma 
 <h5>Tecnologias envolvidas</h5>
 <ul>
 <li>Nodejs (V2)</li>
-<li>mongoDB</li>
+<li>MongoDB</li>
 <li>Heroku</li>
 <li>Arduino</li>
 </ul>
